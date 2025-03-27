@@ -2,7 +2,7 @@
 
 Link para ver resultado: [VENTA VIAJES FINALIZADO]()
 
-![Captura de pantalla del proyecto de JavaScript]()
+![Captura de pantalla del proyecto de JavaScript](https://github.com/nisvagodev/venta-viajes-javascript-project/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
 La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asociados.
 
