@@ -2,6 +2,8 @@
 
 Link para ver resultado: [VENTA VIAJES FINALIZADO]()
 
+![Captura de pantalla del proyecto de JavaScript]()
+
 La aplicación mostrará información sobre diferentes ciudades turísticas y sus precios asociados.
 
 ## Funcionamiento del código JavaScript
@@ -35,7 +37,3 @@ Se agrega un evento `click` a cada enlace mediante un bucle `forEach`. Cuando se
 ### Función para obtener contenido de la ciudad
 
 La función `obtenerContenido` toma el texto del enlace como parámetro y devuelve el contenido correspondiente de la ciudad desde el archivo `ciudades.js`. Utiliza un objeto `contenido` para mapear el texto del enlace con el contenido de la ciudad.
-
-## Personalización del contenido
-
-Puedes personalizar el contenido de las ciudades modificando el archivo `ciudades.js`. Cada ciudad es representada por un objeto con propiedades como `titulo`, `subtitulo`, `parrafo` y `precio`.
