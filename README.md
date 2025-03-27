@@ -1,6 +1,6 @@
 # Proyecto de Aplicación de Venta de Viajes en JavaScript
 
-Link para ver resultado: [VENTA VIAJES FINALIZADO]()
+Link para ver resultado: [VENTA VIAJES FINALIZADO](https://venta-viajes-javascript-project.netlify.app/)
 
 ![Captura de pantalla del proyecto de JavaScript](https://github.com/nisvagodev/venta-viajes-javascript-project/blob/main/assets/img/captura-de-pantalla.PNG?raw=true)
 
